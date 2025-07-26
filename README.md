@@ -30,7 +30,7 @@ Check out my consulting portfolio:
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [linkedin.com/in/segunoladipo](https://www.linkedin.com/in/segunoladipo)
+- **LinkedIn**: [linkedin.com/in/segunoladipo](https://www.linkedin.com/in/segun-oladipo)
 
 ---
 

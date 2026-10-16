@@ -1,6 +1,7 @@
 # Segun Oladipo
 
-**Lead Security Engineer and Security Manager | United States**
+**Lead Security Engineer and Security Manager**
+United States
 
 Cybersecurity leader with 10+ years across detection engineering, incident response, cloud security, and security operations. I build and run programs that find attacks early and respond fast, and I share that work in sanitized form: detection logic, threat hunts, forensic labs, red team exercises, and automation.
 
@@ -18,7 +19,7 @@ Cybersecurity leader with 10+ years across detection engineering, incident respo
 Full portfolio site: [so17213.github.io](https://so17213.github.io)
 
 - Detection engineering, threat hunting, incident response, forensics, red team labs, cloud security, and automation
-- Resume (public version, employer names withheld): [so17213.github.io/resume](https://so17213.github.io/resume/)
+- Resume (public version): [so17213.github.io/resume](https://so17213.github.io/resume/)
 
 ## Certifications
 

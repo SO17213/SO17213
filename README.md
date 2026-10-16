@@ -1,37 +1,36 @@
-# 👋 Hi, I’m Segun Oladipo
+# Segun Oladipo
 
-I'm a cybersecurity consultant with a strong track record in threat detection, SOC operations, cloud security, and red/blue team collaboration. I use this space to share hands-on projects, detection logic, and real-world experiences that reflect how I solve security problems.
+**Lead Security Engineer and Security Manager | United States**
 
----
+Cybersecurity leader with 10+ years across detection engineering, incident response, cloud security, and security operations. I build and run programs that find attacks early and respond fast, and I share that work in sanitized form: detection logic, threat hunts, forensic labs, red team exercises, and automation.
 
-## 🧠 What I Do
+## Selected results
 
-- Build high-fidelity detections (Splunk, Chronicle, CrowdStrike NGSIEM)
-- Investigate alerts across Proofpoint, AWS, Okta, and macOS/Windows endpoints
-- Develop automated response workflows using SOAR platforms
-- Support 24/7 SOC operations across AWS, Azure, and GCP environments
-- Create red team playbooks and forensics triage procedures
+- Cut alert false positives 30 to 40 percent through detection tuning and triage standards
+- Improved mean time to detect by 25 percent
+- Reduced stale and unused account access by 75 percent through recurring access reviews
+- Drove critical vulnerability closure to 95 percent within SLA
+- Incident commander for major incidents, including ransomware readiness and tabletops
+- AI security assessments against the NIST AI Risk Management Framework
 
----
+## Portfolio
 
-## 🔧 Tools & Platforms
+Full portfolio site: [so17213.github.io](https://so17213.github.io)
 
-`Splunk` `Chronicle SOAR` `CrowdStrike Falcon`  
-`QRadar` `Jamf Protect` `Netskope` `AWS` `Azure` `GCP`
+- Detection engineering, threat hunting, incident response, forensics, red team labs, cloud security, and automation
+- Resume (public version, employer names withheld): [so17213.github.io/resume](https://so17213.github.io/resume/)
 
----
+## Certifications
 
-## 📂 My Portfolio
+GIAC GCFE (2026) and GCIH, AWS Certified Security - Specialty and Solutions Architect - Associate, Microsoft SC-200, CEH, CompTIA CySA+ and Security+, Splunk Certified Cybersecurity Defense Analyst
 
-Check out my consulting portfolio:  
-👉 [github.com/SO17213/cybersecurity-consulting-portfolio](https://github.com/SO17213/cybersecurity-consulting-portfolio)
+## Writing
 
----
+- [Effective Vulnerability Management](https://segun0.medium.com/effectivevulmngt-e63907e2fd79)
 
-## 📫 Let's Connect
+## Connect
 
-- **LinkedIn**: [linkedin.com/in/segunoladipo](https://www.linkedin.com/in/segun-oladipo)
+- LinkedIn: [linkedin.com/in/segun-oladipo](https://www.linkedin.com/in/segun-oladipo)
+- Consulting: [salvuscyber.com](https://salvuscyber.com)
 
----
-
-> 🛡️ Everything shared here is from personal research, test environments, or sanitized recreations. No confidential client data.
+> Everything shared here is from personal research, lab environments, or sanitized recreations. No employer or client data.
